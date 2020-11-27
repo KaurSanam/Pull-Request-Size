@@ -52,7 +52,6 @@ function sizeLabel (lineCount) {
   return label.XL
 }
 
-
 /**
  * getCustomGeneratedFiles will grab a list of file globs that determine
  * generated files from the repos .gitattributes.
